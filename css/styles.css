@@ -10,12 +10,12 @@ body {
   margin: 0;
   direction: rtl;
   font-size: 16px;
+  background-color: lightblue;
 }
 .header {
-  padding: 50px; 
+  padding: 20px; 
   text-align: center; 
-  background: #1abc9c; 
-  color: white; 
+  background: rgba(0, 150, 0, 0.3);
 }
 
 /* Increase the font size of the <h1> element */
