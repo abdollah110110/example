@@ -11,15 +11,3 @@ body {
   direction: rtl;
   font-size: 16px;
 }
-.header {
-  padding: 50px; 
-  text-align: center; 
-  background: #1abc9c; 
-  color: white; 
-}
-
-/* Increase the font size of the <h1> element */
-.header h1 {
-  font-size: 70px;
-  font-weight: bold;
-}
